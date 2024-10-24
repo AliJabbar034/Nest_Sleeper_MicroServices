@@ -19,7 +19,7 @@ GET http://localhost:3000/reservations
 
 GET http://localhost:3000/reservations/6710d87602bfde4406f25c8d
 
-
+#CREATE
 PATCH http://localhost:3000/reservations/6710d87602bfde4406f25c8d
 Content-Type:application/json
 {
